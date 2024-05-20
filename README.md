@@ -23,7 +23,7 @@ By training a segmentation model by the new tiled dataset, we will try to improv
 large Skin-Cancer images of 4K or 6K pixel size.<br>   
  -->
 <br>
-For example, ISIC-0014680 image and mask of 7168x4608 pixel-size can be splitted to the tiles as shown belown.<br>
+For example, ISIC-0014680 image and mask of 7168x4608 pixel-size can be split to the tiles as shown below.<br>
 <b>Image and Mask</b>
 <table>
 <!--
@@ -162,7 +162,7 @@ width and height which are minimum integral multiple of 512.
 
 
 <h3>
-3.2 Create Tiledly Splitted and Resized Dataset
+3.2 Create Tiledly Split and Resized Dataset
 </h3>
 
 Please run the following command for Python script <a href="./TiledImageMaskDatasetGenerator.py">TiledImageMaskDatasetGenerator.py</a>.
