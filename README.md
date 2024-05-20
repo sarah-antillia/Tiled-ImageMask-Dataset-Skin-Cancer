@@ -178,7 +178,7 @@ Please run the following command for Python script <a href="./TiledImageMaskData
 
 This Python script performs the following image processings on the original images and masks in <b>Large-Skin-Cancer-master</b>.
 <br>
-<li>1. Create tiledly splitted patches (images and masks) of 512x512 from the large image and mask files
+<li>1. Create tiledly split patches (images and masks) of 512x512 from the large image and mask files
   in ./Large-Skin-Cancer-master, and save them to ./Tiled-Skin-Cancer-master.</li>
 
 <li>2. Resize the large images and masks to 512x512, and save to ./Tiled-Skin-Cancer-master.</li>
